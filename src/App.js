@@ -223,7 +223,6 @@ export default function Pie() {
 						margin={{ top: 150, left: 100, right: 100 }}
 						height={600}
 						series={[
-							// { data: priceData, outerRadius: radius },
 							{
 								startAngle: -90,
 								endAngle: 90,
@@ -253,9 +252,7 @@ export default function Pie() {
 					>
 						<ChartsTooltip
 							slotProps={{
-								itemContent: {
-									/* Your custom props here */
-								},
+								itemContent: {},
 							}}
 							slots={{
 								itemContent: CustomTooltipContentComponent,
