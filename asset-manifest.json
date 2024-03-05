@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/coffee-dataviz-pie-react/static/css/main.e6c13ad2.css",
+    "main.js": "/coffee-dataviz-pie-react/static/js/main.b5e3b6ec.js",
+    "index.html": "/coffee-dataviz-pie-react/index.html",
+    "main.e6c13ad2.css.map": "/coffee-dataviz-pie-react/static/css/main.e6c13ad2.css.map",
+    "main.b5e3b6ec.js.map": "/coffee-dataviz-pie-react/static/js/main.b5e3b6ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b5e3b6ec.js"
+  ]
+}
